@@ -1,0 +1,11 @@
+node_modules
+dist
+.docker
+.git
+.gitignore
+README.md
+docker-compose.yaml
+nginx
+bonus
+*.log
+scan-results

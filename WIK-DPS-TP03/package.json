@@ -1,0 +1,11 @@
+{
+  "name": "wik-dps-tp03",
+  "version": "1.0.0",
+  "description": "Docker Compose avec load balancing nginx pour WIK-DPS-TP03",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "start": "node dist/server.js",
+    "dev": "node src/server.js"
+  }
+}
